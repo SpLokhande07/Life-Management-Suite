@@ -1,0 +1,80 @@
+# Flutter/Dart/Pub related
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+.packages
+pubspec.lock
+
+# Build outputs
+build/
+ios/Flutter/Flutter.framework
+ios/Flutter/Flutter.podspec
+ios/Pods/
+ios/Runner.xcworkspace/
+ios/Runner.xcworkspace/xcuserdata/
+ios/Runner/GeneratedPluginRegistrant.h
+ios/Runner/GeneratedPluginRegistrant.m
+android/.gradle/
+android/app/build/
+android/app/intermediates/
+android/app/outputs/
+android/app/src/debug/
+android/app/src/profile/
+android/local.properties
+android/app/src/main/res/mipmap-*
+android/app/src/main/res/drawable-*
+
+# macOS specific
+macos/Flutter/ephemeral/
+macos/Flutter/Flutter.framework
+macos/Pods/
+macos/Runner.xcworkspace/
+macos/Runner/GeneratedPluginRegistrant.h
+macos/Runner/GeneratedPluginRegistrant.m
+
+# Web specific
+web/.dart_tool/
+web/index.html
+web/manifest.json
+web/favicon.png
+
+# Linux specific
+linux/Flutter/ephemeral/
+linux/Flutter/Flutter.framework
+linux/Runner
+
+# Windows specific
+windows/Flutter/ephemeral/
+windows/Flutter/Flutter.framework
+windows/Runner
+
+# IDE related
+.idea/
+*.iml
+*.ipr
+*.iws
+*.hprof
+*.log
+*.swp
+
+# Miscellaneous
+*.DS_Store
+*.apk
+*.ap_
+*.jks
+*.keystore
+*.hprof
+*.log
+*.tmp
+*.temp
+*.bak
+*.orig
+*.class
+*.jar
+*.war
+*.ear
+*.db
+*.sqlite
+*.sqlite3
+*.sublime-workspace
+*.sublime-project
